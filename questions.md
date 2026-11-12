@@ -9,3 +9,5 @@ GSMA Evals	行业基准测试套件	电信领域知识、推理和诊断能力
 
 这些工具存在重叠，不能简单理解成 Inspect AI 只测模型、Ragas 只测 RAG、DeepEval 只测 Agent。实际上，三者都能覆盖部分其他领域。
 Ragas+2
+
+3.fastapi里面streamable http有什么优势吗
